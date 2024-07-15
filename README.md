@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 필요한 패키지 설치
+- react-router-dom
+- styled-components
+
+### `npm install --save react-router-dom styled-components`
+
 ## Available Scripts
 
 In the project directory, you can run:
