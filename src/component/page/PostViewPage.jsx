@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
 import CommentList from "../list/CommentList";
 import TextInput from "../ui/TextInput";

@@ -8,6 +8,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm install --save react-router-dom styled-components`
 
+## build 파일로 실행
+serve 설치
+### `npm install -g serve`
+### `serve -s build`
+
 ## Available Scripts
 
 In the project directory, you can run:
